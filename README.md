@@ -113,16 +113,17 @@ The `MediumClient` class is used to interact with the Medium API.
 The project test coverage is as follows:
 
 | File               | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s |
-|--------------------|---------|----------|---------|---------|-------------------|
-| src                |   98.36 |    86.66 |   52.94 |   98.03 |                   |
-|   client.ts        |      95 |    71.42 |     100 |      95 | 46                |
-|   index.ts         |     100 |      100 |   11.11 |     100 |                   |
-|   types.ts         |     100 |      100 |     100 |     100 |                   |
-| src/resources      |     100 |      100 |   71.42 |     100 |                   |
-|   images.ts        |     100 |      100 |     100 |     100 |                   |
-|   posts.ts         |     100 |      100 |      50 |     100 |                   |
-|   publications.ts  |     100 |      100 |      75 |     100 |                   |
-|   users.ts         |     100 |      100 |     100 |     100 |                   |
+|--------------------|-------:|--------:|-------:|-------:|-------------------:|
+| src                |  98.36 |   86.66 |  52.94 |  98.03 |                    |
+|   client.ts        |  95    |   71.42 | 100    |  95    | 46                 |
+|   index.ts         | 100    |  100    |  11.11 | 100    |                    |
+|   types.ts         | 100    |  100    | 100    | 100    |                    |
+| src/resources      | 100    |  100    |  71.42 | 100    |                    |
+|   images.ts        | 100    |  100    | 100    | 100    |                    |
+|   posts.ts         | 100    |  100    |  50    | 100    |                    |
+|   publications.ts  | 100    |  100    |  75    | 100    |                    |
+|   users.ts         | 100    |  100    | 100    | 100    |                    |
+
 
 ## Reference
 
